@@ -53,5 +53,5 @@ Meu nome é João Vitor Melo, estudante de SI, __navegando no universo da tecnol
       
 </div>
 
-![snake gif](https://github.com/joaovitormelo7/joaovitormelo7?tab=repositories/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaovitormelo7/joaovitormelo7?tab=repositories/blob/output/github-contribution-grid-snake.svg)
 
