@@ -5,7 +5,7 @@
 Meu nome é João Vitor Melo, estudante de SI, __navegando no universo da tecnologia__, com diversas paixões como JavaScript, HTML, CSS e aprendendo SQL. Construindo meu sonho em ser desenvolvedor com o __objetivo de transformar meus códigos em inovação__. 
 
 * 📚 Atualmente estudando na *UFV* (Universidade Federal de Viçosa) 
-* 🧑🏽‍💻 Estudando *SQL* e *TypeScript*
+* 🧑🏽‍💻 Estudando *SQL* e *React*
 * 🗺️ Moro em Patos de Minas - MG --> Rio Paranaíba - MG
 * 💬 Apaixonado em tecnologia 💻, música 🎸,  futebol ⚽, __games com boas histórias__ 🎮 e filmes 🎥
 * 📖 Aprofundando cada dia mais no Inglês
