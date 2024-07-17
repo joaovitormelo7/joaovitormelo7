@@ -11,14 +11,13 @@ Meu nome é João Vitor Melo, estudante de SI, __navegando no universo da tecnol
 * 📖 Aprofundando cada dia mais no Inglês
 ##
 <h3> ⚙️ GitHub Análise </h3>
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/joaovitormelo7/convoychat" style="margin-right: 20px;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormelo7&layout=compact&langs_count=8&card_width=335&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/joaovitormelo7/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&bg_color=00000000" />
-  </a>
-</div>
+<div> 
+<a href="https://github.com/joaovitormelo7/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitormelo7&layout=compact&langs_count=8&card_width=335&bg_color=00000000" />
+</a>
+<a href="https://github.com/joaovitormelo7/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&bg_color=00000000" />
+</a>
 
 </div>
 
