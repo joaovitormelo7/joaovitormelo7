@@ -21,8 +21,11 @@ Meu nome é João Vitor Melo, estudante de SI, __navegando no universo da tecnol
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact" />
+  </div>
 </picture>
-
+ 
 </div>
 
 ##
