@@ -28,7 +28,7 @@ Meu nome é João Vitor Melo, estudante de SI, __navegando no universo da tecnol
     
   </picture>
    <img eight=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=400&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=450&bg_color=00000000"
     alt="JoaoVitorMelo7's Top Languages"
   />
   
