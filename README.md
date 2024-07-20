@@ -11,18 +11,28 @@ Meu nome é João Vitor Melo, estudante de SI, __navegando no universo da tecnol
 * 📖 Aprofundando cada dia mais no Inglês
 ##
 <h3> ⚙️ GitHub Análise </h3>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&theme=dark&card_width=300&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&card_width=300&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center"
+      src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&card_width=300&bg_color=00000000"
+      alt="JoaoVitorMelo7's GitHub stats"
+    />
+    
+  </picture>
+   <img eight=200 align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=400&bg_color=00000000"
+    alt="JoaoVitorMelo7's Top Languages"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true" /
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact" />
-</picture>
+  
+
  
 </div>
 
