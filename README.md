@@ -7,8 +7,9 @@ My name is João Vitor Melo, an Information Systems student, navigating the worl
 * 🗺️ I live in Patos de Minas - MG --> Rio Paranaíba - MG
 * 💬 Passionate about technology 💻, music 🎸, football ⚽, games with great stories 🎮, and movies 🎥
 * 📖 Improving my English every day
+
 ##
-<h3> ⚙️ GitHub Análise </h3>
+<h3> ⚙️ GitHub Analysis </h3>
 <div>
   <picture>
     <source
@@ -54,7 +55,7 @@ My name is João Vitor Melo, an Information Systems student, navigating the worl
 
 ##
 <div>
-  <h3> 🙋🏽‍♂️ Contatos & Redes Sociais </h3>
+  <h3> 🙋🏽‍♂️ Contacts & Social Media </h3>
   <a href = "mailto:joaovitormelo199@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
