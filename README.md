@@ -5,7 +5,7 @@ My name is João Vitor Melo, an Information Systems student, navigating the worl
 
 * 📚 Currently studying at UFV (Federal University of Viçosa - Rio Paranaíba Campus)
 * 🧑🏽‍💻 Learning SQL, React, and constantly studying programming logic
-* 🗺️ I live in Patos de Minas - MG --> Rio Paranaíba - MG
+* 🗺️ I live in Patos de Minas - MG
 * 💬 Passionate about technology 💻, music 🎸, football ⚽, games with great stories 🎮, and movies 🎥
 * 📖 Improving my English every day
 
