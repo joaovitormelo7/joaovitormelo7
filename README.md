@@ -1,18 +1,26 @@
-# Hello friends 👋🏽
+<p align="right">
+  <a href="#english">🇺🇸 English</a> | <a href="#português">🇧🇷 Português</a>
+</p>
 
-<h3> About me 🖖🏽</h3>
-My name is João Vitor Melo, an Information Systems student at UNIPAM, navigating the world of technology. I’m currently working at **Grupo Setta - Digital Labs**, where I keep evolving as a developer, turning code into innovation.
+---
 
-* 🏫 Studying Information Systems at UNIPAM
-* 💼 Currently working at Setta - Digital Labs
-* 🧑🏽‍💻 Learning SQL, React, and constantly improving my programming logic
-* 🗺️ Based in Patos de Minas - MG
-* 💬 Passionate about technology 💻, music 🎸, football ⚽, games with great stories 🎮, and movies 🎥
-* 📖 Improving my English every day
+## 🇺🇸 English <a name="english"></a>
 
-##
+### Hello friends 👋🏽
 
-<h3> ⚙️ GitHub Analysis </h3>
+My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** and currently working as a developer at **Grupo Setta - Digital Labs**. I’m passionate about creating digital solutions, exploring new technologies, and turning code into real impact.
+
+- 🎓 Studying Information Systems at **UNIPAM**  
+- 💼 Working at **Grupo Setta - Digital Labs**  
+- 🧠 Learning **SQL**, **React**, and programming logic  
+- 🏡 Based in **Patos de Minas - MG, Brazil**  
+- 🎧 Passionate about **technology**, **music**, **football**, **story-rich games**, and **movies**  
+- 🌍 Improving my **English** every day  
+
+---
+
+### ⚙️ GitHub Stats
+
 <div>
   <picture>
     <source
@@ -34,33 +42,57 @@ My name is João Vitor Melo, an Information Systems student at UNIPAM, navigatin
   />
 </div>
 
-##
+---
 
-<div>
-<img align = "center" alt = "Joao-Js" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align = "center" alt = "Joao-Vscode" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align = "center" alt = "Joao-css3" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align = "center" alt = "Joao-github" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align = "center" alt = "Joao-notion" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img align = "center" alt = "Joao-html" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="right" alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
-<img align = "center" alt = "Joao-type" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align = "center" alt = "Joao-react" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<div align="center" style="margin: 20px 0;">
+  <img alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
 </div>
 
-##
+---
 
-<div>
-  <h3> 🙋🏽‍♂️ Contacts & Social Media </h3>
-  <a href = "mailto:joaovitormelo199@gmail.com">
-    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href = "https://github.com/joaovitormelo7">
-    <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    
-  <a href = "https://www.linkedin.com/in/joaovitormelo7/">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+### 🛠️ Technologies & Tools
 
-  <a href = "https://www.instagram.com/joaovitormelo7/">
-    <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" />
 </div>
+
+---
+
+### 🙋🏽‍♂️ Contacts & Social Media
+
+<p>
+  <a href="mailto:joaovitormelo199@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/joaovitormelo7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaovitormelo7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/joaovitormelo7/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🇧🇷 Português <a name="português"></a>
+
+### Olá amigos 👋🏽
+
+Me chamo **João Vitor Melo**, estudante de Sistemas de Informação pela **UNIPAM** e atualmente atuo como desenvolvedor no **Grupo Setta - Digital Labs**. Sou apaixonado por construir soluções com tecnologia e transformar ideias em inovação real.
+
+- 🎓 Cursando Sistemas de Informação na **UNIPAM**  
+- 💼 Desenvolvedor no **Grupo Setta - Digital Labs**  
+- 🧠 Aprendendo **SQL**, **React** e lógica de programação  
+- 🏡 Moro em **Patos de Minas - MG**  
+- 🎧 Amante de **tecnologia**, **música**, **futebol**, **jogos com boas histórias** e **filmes**  
+- 🌍 Estudando e melhorando meu **Inglês** todos os dias  
