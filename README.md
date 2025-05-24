@@ -43,7 +43,7 @@ My name is João Vitor Melo, an Information Systems student at UNIPAM, navigatin
 <img align = "center" alt = "Joao-github" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align = "center" alt = "Joao-notion" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img align = "center" alt = "Joao-html" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align = "right" alt = "Joao-gif" height = "30" width = "140" src ="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
+<img align="right" alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
 <img align = "center" alt = "Joao-type" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align = "center" alt = "Joao-react" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
