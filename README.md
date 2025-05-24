@@ -22,20 +22,10 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 ### ⚙️ GitHub Stats
 
 <div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&theme=dark&card_width=300&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&card_width=300&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=200 align="center"
-      src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&card_width=300&bg_color=00000000"
-      alt="JoaoVitorMelo7's GitHub stats"
-    />
-  </picture>
+  <img height=200 align="center"
+    src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&bg_color=00000000"
+    alt="JoaoVitorMelo7's GitHub stats"
+  />
   <img height=200 align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=450&bg_color=00000000"
     alt="JoaoVitorMelo7's Top Languages"
@@ -46,16 +36,24 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 ### 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mendix-1.svg" height="40" alt="Mendix" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
+
+  <!-- Technologies -->
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  </div>
+
+  <!-- GIF -->
+  <div>
+    <img alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
+  </div>
 </div>
 
 ---
@@ -76,12 +74,6 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center" style="margin: 20px 0;">
-  <img alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
-</div>
 
 ---
 
