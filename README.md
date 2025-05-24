@@ -36,25 +36,26 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 ### 🛠️ Technologies & Tools
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 0 24px;">
+<table>
+  <tr>
+    <!-- Tecnologias -->
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" />
+    </td>
 
-  <!-- Technologies -->
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  </div>
-
-  <!-- GIF -->
-  <div>
-    <img alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
-  </div>
-</div>
+    <!-- GIF -->
+    <td align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="80" />
+    </td>
+  </tr>
+</table>
 
 ---
 
