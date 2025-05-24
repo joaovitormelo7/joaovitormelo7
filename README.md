@@ -55,7 +55,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mendix/mendix-original.svg" height="40" alt="Mendix" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mendix-1.svg" height="40" alt="Mendix" />
 </div>
 
 ---
