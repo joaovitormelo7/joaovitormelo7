@@ -44,12 +44,6 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 ---
 
-<div align="center" style="margin: 20px 0;">
-  <img alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
-</div>
-
----
-
 ### 🛠️ Technologies & Tools
 
 <div align="center">
@@ -61,6 +55,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mendix/mendix-original.svg" height="40" alt="Mendix" />
 </div>
 
 ---
@@ -81,6 +76,12 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center" style="margin: 20px 0;">
+  <img alt="Joao-gif" height="80" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" />
+</div>
 
 ---
 
