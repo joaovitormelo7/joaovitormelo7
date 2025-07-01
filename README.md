@@ -91,4 +91,5 @@ Me chamo **João Vitor Melo**, estudante de Sistemas de Informação pela **UNIP
 - 🎧 Amante de **tecnologia**, **música**, **futebol**, **jogos com boas histórias** e **filmes**  
 - 🌍 Estudando e melhorando meu **Inglês** todos os dias  
 
-![snake gif](https://raw.githubusercontent.com/joaovitormelo7/snk/manual-run-output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/joaovitormelo7/snk/manual-run-output/github-contribution-grid-snake-dark.svg)
+
