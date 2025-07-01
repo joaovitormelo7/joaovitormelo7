@@ -76,7 +76,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 </p>
 
 ---
-![snake gif](https://github.com/joaovitormelo7/snk/blob/manual-run-output/github-contribution-grid-snake.svg)
+
 
 ## 🇧🇷 Português <a name="português"></a>
 
@@ -90,3 +90,5 @@ Me chamo **João Vitor Melo**, estudante de Sistemas de Informação pela **UNIP
 - 🏡 Moro em **Patos de Minas - MG**  
 - 🎧 Amante de **tecnologia**, **música**, **futebol**, **jogos com boas histórias** e **filmes**  
 - 🌍 Estudando e melhorando meu **Inglês** todos os dias  
+
+![snake gif](https://github.com/joaovitormelo7/snk/blob/manual-run-output/github-contribution-grid-snake.svg)
