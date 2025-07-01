@@ -76,6 +76,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 </p>
 
 ---
+![snake gif](https://github.com/joaovitormelo7/snk/blob/manual-run-output/github-contribution-grid-snake.svg)
 
 ## 🇧🇷 Português <a name="português"></a>
 
