@@ -50,7 +50,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 </p>
   
 
----
+--
 
 ### 🙋🏽‍♂️ Contacts & Social Media
 
