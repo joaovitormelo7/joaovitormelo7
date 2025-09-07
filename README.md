@@ -12,7 +12,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 - 🎓 Studying Information Systems at **UNIPAM**  
 - 💼 Working at **Grupo Setta - Digital Labs**  
-- 🧠 Learning **SQL**, **React**, **Java** and programming logic  
+- 🧠 Learning **Java** and programming logic  
 - 🏡 Based in **Patos de Minas - MG, Brazil**  
 - 🎧 Passionate about **technology**, **music**, **football**, **story-rich games**, and **movies**  
 - 🌍 Improving my **English** every day  
@@ -80,7 +80,7 @@ Me chamo **João Vitor Melo**, estudante de Sistemas de Informação pela **UNIP
 
 - 🎓 Cursando Sistemas de Informação na **UNIPAM**  
 - 💼 Desenvolvedor no **Grupo Setta - Digital Labs**  
-- 🧠 Aprendendo **SQL**, **React**, **Java** e lógica de programação  
+- 🧠 Aprendendo **Java** e lógica de programação  
 - 🏡 Moro em **Patos de Minas - MG**  
 - 🎧 Amante de **tecnologia**, **música**, **futebol**, **jogos com boas histórias** e **filmes**  
 - 🌍 Estudando e melhorando meu **Inglês** todos os dias  
