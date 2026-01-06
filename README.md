@@ -21,15 +21,13 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 ### ⚙️ GitHub Stats
 
-<div>
-  <img height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&bg_color=00000000"
-    alt="JoaoVitorMelo7's GitHub stats"
-  />
-  <img height=200 align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=450&bg_color=00000000"
-    alt="JoaoVitorMelo7's Top Languages"
-  />
+<div align="center">
+  <img height="200"
+       src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&cache_seconds=86400"
+       alt="JoaoVitorMelo7's GitHub stats" />
+  <img height="200"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=450&theme=transparent&hide_border=true&cache_seconds=86400"
+       alt="JoaoVitorMelo7's Top Languages" />
 </div>
 
 ---
