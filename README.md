@@ -19,18 +19,6 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 ---
 
-### 🧰 Tech Stack
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="left">
