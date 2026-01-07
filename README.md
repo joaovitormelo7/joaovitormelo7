@@ -19,16 +19,13 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 
 ---
 
-### ⚙️ GitHub Stats
+### 🧰 Tech Stack
 
-<div align="center">
-  <img height="200"
-       src="https://github-readme-stats.vercel.app/api?username=joaovitormelo7&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&cache_seconds=86400"
-       alt="JoaoVitorMelo7's GitHub stats" />
-  <img height="200"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitormelo7&layout=compact&card_width=450&theme=transparent&hide_border=true&cache_seconds=86400"
-       alt="JoaoVitorMelo7's Top Languages" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 
 ---
 
