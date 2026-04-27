@@ -64,7 +64,7 @@ My name is **João Vitor Melo**, an Information Systems student at **UNIPAM** an
 Me chamo **João Vitor Melo**, estudante de Sistemas de Informação pela **UNIPAM** e atualmente atuo como desenvolvedor no **Grupo Setta - Digital Labs**. Sou apaixonado por construir soluções com tecnologia e transformar ideias em inovação real.
 
 - 🎓 Cursando Sistemas de Informação na **UNIPAM**  
-- 💼 Desenvolvedor no **Grupo Setta - Digital Labs**  
+- 💼 Desenvolvedor Jr no **Grupo Setta - Digital Labs**  
 - 🧠 Aprendendo **Java** e lógica de programação  
 - 🏡 Moro em **Patos de Minas - MG**  
 - 🎧 Amante de **tecnologia**, **música**, **futebol**, **jogos com boas histórias** e **filmes**  
